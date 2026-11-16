@@ -1,0 +1,11 @@
+{
+  "experiment": "examples_design_only",
+  "base_version": "examples_zero_v1",
+  "new_version": "examples_few_v1",
+  "changed": "미래",
+  "hypothesis": "터미네이터",
+  "fixed": [
+    "존 코너를 지켜내는데 실패"
+  ],
+  "source_mode": "design_only"
+}

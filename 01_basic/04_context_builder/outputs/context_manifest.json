@@ -1,0 +1,29 @@
+{
+  "context_version": "knowledge_v1",
+  "included_ids": [],
+  "excluded": [
+    {
+      "id": 101,
+      "reason": "mason"
+    },
+    {
+      "id": 102,
+      "reason": "mason"
+    },
+    {
+      "id": 103,
+      "reason": "mason"
+    }
+  ],
+  "budget": {
+    "source": "hypothetical_budget_not_model_measurement",
+    "parts": {
+      "window": 8192,
+      "instructions_question": 800,
+      "examples": 600,
+      "output_reserve": 1600,
+      "margin": 256
+    },
+    "available_for_context": 4936
+  }
+}
