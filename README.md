@@ -561,7 +561,7 @@ if __name__ == "__main__":
 ### 핵심 개념
 * **알기 쉽게 정리된 요약**: 오늘의 수업 내용을 한 눈에 보기 좋게 정리된 이미지 첨부
 
-![핵심 요약을 한 눈에 보는 이미지](https://github.com/dday4881/2026-11-16/blob/main/D-21_important_map.png)
+![핵심 요약을 한 눈에 보는 이미지](https://github.com/dday4881/2026-11-16/blob/main/D-21%20important%20map.png)
 ```
 
 ### Git 배포
